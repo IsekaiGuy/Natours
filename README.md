@@ -6,8 +6,9 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## About Project
 ![Alt text](/img/Natours.png?raw=true "Natours")
+
+## About Project
 <p>
 Pure CSS travel company SPA.
 </p>
