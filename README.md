@@ -12,3 +12,15 @@
 <p>
 Pure CSS travel company SPA.
 </p>
+
+## Getting Started
+
+
+* npm
+  ```sh
+  npm install
+  ```
+
+```sh
+  npm start
+  ```
