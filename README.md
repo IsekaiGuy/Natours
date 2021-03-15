@@ -15,11 +15,11 @@ Pure CSS travel company SPA.
 
 ## Getting Started
 
+Install npm first and run the project:
 
-* npm
-  ```sh
+```sh
   npm install
-  ```
+```
 
 ```sh
   npm start
